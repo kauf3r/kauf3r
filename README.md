@@ -1,6 +1,6 @@
 # Andy Kaufman
 
-**Operations Lead & Platform Engineer** at [AirSpace Integration](https://airspaceintegration.com) — an FAA-designated UAS test range on California's Central Coast.
+**Operations Lead & Platform Engineer** at [AirSpace Integration](https://airspaceintegration.com) — a UAS test range and incubator hub on California's Central Coast.
 
 I build the software that runs flight operations, compliance, and automation for defense-tier UAS clients including AeroVironment, Pivotal Aerospace, and NASA.
 
